@@ -1,17 +1,6 @@
-/******************************************
-TUGAS AKHIR PRODAS-8
-Program Kuis Mahasiswa Teknik Informatika
 
-Anggota Kelompok :
-1. Firdamdam Sasmita
-2. Budi Satria Utama
-3. Fiki Priantono
-4. Dadan Mustafa Kamal
-5. Fali Falyaoma
-6. Rizka Abdul Rozaq
-7. Gingga Ismu Muttaqin Hadiko
-
-List Metode :
+/*
+  List Metode :
 - IF Statement
 - Pengulangan
 - Array
@@ -19,8 +8,8 @@ List Metode :
 - Sorting
 - Manipulasi String
 - FILE
-*******************************************/
-
+*/
+	
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
